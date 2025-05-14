@@ -19,14 +19,14 @@ local OrionLib = {
 			Stroke = Color3.fromRGB(139, 69, 19),      -- بني (لون الأزرار)
 			Divider = Color3.fromRGB(180, 210, 240),   -- أزرق فاتح متوسط
 			Text = Color3.fromRGB(240, 250, 255),      -- أبيض مزرق
-			TextDark = Color3.fromRGB(100, 130, 160)   -- أزرق داكن للنصوص الداكنة
+			TextDark = Color3.fromRGB(100, 130, 160),  -- أزرق داكن للنص الداكن
+			Hover = Color3.fromRGB(0, 51, 102)         -- أزرق غامق للإضاءة عند التفاعل
 		}
 	},
 	SelectedTheme = "Default",
 	Folder = nil,
 	SaveCfg = false
 }
-
 --Feather Icons https://github.com/evoincorp/lucideblox/tree/master/src/modules/util - Created by 7kayoh
 local Icons = {}
 

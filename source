@@ -20,8 +20,8 @@ local OrionLib = {
 			Divider = Color3.fromRGB(180, 210, 240),   -- أزرق فاتح متوسط
 			Text = Color3.fromRGB(255, 255, 255),      -- أبيض مزرق
 			TextDark = Color3.fromRGB(100, 130, 160),  -- أزرق داكن للنص الداكن
-			Hover = Color3.fromRGB(0, 51, 102)         -- أزرق غامق للإضاءة عند التفاعل
-		}
+			        
+             }
 	},
 	SelectedTheme = "Default",
 	Folder = nil,
